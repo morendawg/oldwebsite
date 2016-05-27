@@ -1,0 +1,81 @@
+@font-face{
+    font-family: "CircularStd-Bold";
+    src: url('/fonts/CircularStd-Bold.otf'),
+    url('/fonts/CircularStd-Bold.eot'); /* IE */
+}
+@font-face{
+    font-family: "CircularStd-Book";
+    src: url('/fonts/CircularStd-Book.otf'),
+    url('/fonts/CircularStd-Book.eot'); /* IE */
+}
+@font-face{
+    font-family: "Menlo";
+    src: url('/fonts/Menlo-Regular.ttf'),
+    url('/fonts/Menlo-Regular.eot'); /* IE */
+}
+h1{
+    font-family: CircularStd-Bold;
+    font-weight:normal;
+    color: white;
+    margin: 0;
+}
+
+h2{
+    font-family: CircularStd-Book;
+    font-weight:normal;
+    color: white;
+    margin: 0;
+}
+
+p a{
+    font-family: CircularStd-Book;
+    font-weight:normal;
+    color: white;
+    margin: 0;
+}
+
+#desc a{
+    font-family:Menlo;
+    text-decoration: none;
+    color: white;
+}
+
+body{
+    background: url('../img/gradient.png') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body.class1{
+    background: url('../img/developer.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body.class2{
+    background: url('../img/designer.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body.class3{
+    background: url('../img/student.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body.class4{
+    background: url('../img/thinker.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
