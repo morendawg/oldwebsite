@@ -13,14 +13,21 @@
     src: url('/fonts/Menlo-Regular.ttf'),
     url('/fonts/Menlo-Regular.eot'); /* IE */
 }
-h1{
+h4{
     font-family: CircularStd-Bold;
     font-weight:normal;
     color: white;
     margin: 0;
 }
 
-h2{
+h5{
+    font-family: CircularStd-Book;
+    font-weight:normal;
+    color: white;
+    margin: 0;
+}
+
+p {
     font-family: CircularStd-Book;
     font-weight:normal;
     color: white;
@@ -28,15 +35,15 @@ h2{
 }
 
 p a{
-    font-family: CircularStd-Book;
-    font-weight:normal;
     color: white;
-    margin: 0;
+}
+p a:visited{
+    color: white;
 }
 
 #desc a{
     font-family:Menlo;
-    text-decoration: none;
+/*    text-decoration: none;*/
     color: white;
 }
 
@@ -48,7 +55,8 @@ body{
   background-size: cover;
 }
 
-body.class1{
+
+/*body.class1{
     background: url('../img/developer.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -78,4 +86,4 @@ body.class4{
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}
+}*/

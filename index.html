@@ -7,28 +7,46 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/skeleton.css">
     <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
-    <script src="js/jquery.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
     <title>Daniel Moreno - Personal Website</title>
 </head>
 <body>
-    <header>
-    <p style ="float: right; width: 15%"><a target ="_blank"href="resume/april2016.pdf">resume</a></p>
-    <h1>Hi, I'm Dan.</h1>
-    <div style="width: 500px;">
-        <h2 style="float: left; width: 15%;">I am a</h2>
-        <h2 id ="desc" style="float: right; text-align: left; width: 85%;">
-            <a href="#" id="dev">developer.</a><br>
-            <a href="#" id="des">designer.</a><br>
-            <a href="#" id="stu">student.</a><br>
-            <a href="#" id="thnk">thinker.</a>
-        </h2> 
+    <div class = "container">
+        <div class = "row">
+            <div class = "offset-by-eleven two columns">
+                <p><a target ="_blank"href="resume/april2016.pdf">my resume</a></p>
+            </div>
+        </div>
+        
+        <div class = "row">
+            <div class "one-half column">
+                <img src="img/headshot.png" style="width:15%;height:15%;">
+                <h5>a little bit about myself</h5>
+                
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis et ligula ipsum. Phasellus rutrum, ligula ut faucibus fringilla, urna lorem consequat dolor, vitae euismod tortor libero eu nibh. Donec mattis augue vel nisl pretium, vel laoreet turpis ultrices. Integer congue felis non eros vehicula, sed efficitur turpis blandit. Cras tempus nisl ut ligula sodales, vel sagittis eros efficitur. Etiam a mauris nulla. Vestibulum est diam, lacinia eu erat nec, hendrerit elementum diam. Fusce ut mauris ac felis egestas malesuada. Ut sed orci at lectus tempor tempor sollicitudin porttitor diam. Morbi feugiat dui dictum, mattis est sed, mattis leo. In magna erat, pellentesque eu lacus nec, interdum faucibus ligula. Praesent nunc tellus, tincidunt a posuere vel, interdum ut erat. Fusce in sollicitudin ipsum. Praesent velit eros, sagittis vel nulla vitae, volutpat posuere justo. Nunc condimentum tellus sit amet finibus pharetra. In dui elit, sollicitudin ac ex at, sagittis varius turpis.</p>
+            </div>
+        </div>    
+        
+    <div class = "row">
+        <div class "offset-by-two one column"> 
+            <h4>Hi, I'm Dan.</h4>
+        </div>
     </div>
-    </header>
-    <script>
-        $("#dev").click(function(){
-            $(body).css("background", "url('../img/developer.jpg') no-repeat center center fixed");
-        });
-    </script>
+    
+        <div class = "row">
+            <div class "offset-by-two three column"> 
+                <h5 style="float: left; width: 10%;">I am a</h5>
+            <h5 id ="desc" style="float: right; text-align: left; width: 90%;">
+                <a href="/#" id="dev">developer.</a><br>
+                <a href="/#" id="des">designer.</a><br>
+                <a href="/#" id="stu">student.</a><br>
+                <a href="/#" id="thnk">thinker.</a>
+            </h5> 
+            </div>
+        </div>
+    </div>
 </body>
 </html>
