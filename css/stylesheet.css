@@ -43,7 +43,7 @@ p a:visited{
 
 #desc a{
     font-family:Menlo;
-/*    text-decoration: none;*/
+    text-decoration: none;
     color: white;
 }
 
