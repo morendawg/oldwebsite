@@ -1,8 +1,37 @@
-@font-face{
-    font-family: "CircularStd-Bold";
-    src: url('/fonts/CircularStd-Bold.otf'),
-    url('/fonts/CircularStd-Bold.eot'); /* IE */
+html, body {
+	width: 100%;
+	height: 100%;
+    margin: 0;
+    padding: 0;
 }
+
+body {
+  background: linear-gradient(270deg, #5e17d3, #34dcee);
+  background-size: 300% 300%;
+
+  -webkit-animation: Gradient 30s ease infinite;
+  -moz-animation: Gradient 30s ease infinite;
+  animation: Gradient 30s ease infinite;
+
+}
+@-webkit-keyframes Gradient {
+	0%{background-position:0% 50%}
+	50%{background-position:100% 50%}
+	100%{background-position:0% 50%}
+}
+
+@-moz-keyframes Gradient {
+  0%{background-position:0% 50%}
+	50%{background-position:100% 50%}
+	100%{background-position:0% 50%}
+}
+
+@keyframes Gradient {
+	0%{background-position:0% 50%}
+	50%{background-position:100% 50%}
+	100%{background-position:0% 50%}
+}
+
 @font-face{
     font-family: "CircularStd-Book";
     src: url('/fonts/CircularStd-Book.otf'),
@@ -13,16 +42,11 @@
     src: url('/fonts/Menlo-Regular.ttf'),
     url('/fonts/Menlo-Regular.eot'); /* IE */
 }
-h4{
-    font-family: CircularStd-Bold;
-    font-weight:normal;
-    color: white;
-    margin: 0;
-}
 
 h5{
     font-family: CircularStd-Book;
     font-weight:normal;
+    font-size:  200%;
     color: white;
     margin: 0;
 }
@@ -36,54 +60,8 @@ p {
 
 p a{
     color: white;
+    text-decoration: none
 }
 p a:visited{
     color: white;
 }
-
-#desc a{
-    font-family:Menlo;
-    text-decoration: none;
-    color: white;
-}
-
-body{
-    background: url('../img/developer.jpg') no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-
-/*body.class1{
-    background: url('../img/developer.jpg') no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-body.class2{
-    background: url('../img/designer.jpg') no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-body.class3{
-    background: url('../img/student.jpg') no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-body.class4{
-    background: url('../img/thinker.jpg') no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}*/
