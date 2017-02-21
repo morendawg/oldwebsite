@@ -8,7 +8,7 @@ html, body {
 #container {
   margin: 0 auto;
   width: 100%;
-  text-align: center;
+  text-align: left;
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
@@ -80,8 +80,9 @@ h2, h6 {
 
 a{
     color: white;
-    text-decoration: none
+    text-decoration: underline;
 }
+
 a:visited{
     color: white;
 }
