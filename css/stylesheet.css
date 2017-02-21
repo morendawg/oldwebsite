@@ -11,6 +11,7 @@ html, body {
   text-align: left;
   position: absolute;
   top: 50%;
+  left : 30%;
   transform: translateY(-50%);
 }
 
@@ -53,34 +54,33 @@ body {
     url('/fonts/Menlo-Regular.eot'); /* IE */
 }
 
-h3{
-    font-family: Garamond;
-	font-style:  italic;
+h2{
+	font-family: CircularStd-Book;
     font-weight:normal;
-    font-size:  200%;
+    font-size:  160%;
     color: white;
     margin: 0;
 }
 
 h1{
-    font-family: CircularStd-Book;
+    font-family: CircularStd-Bold;
     font-weight:normal;
     font-size:  400%;
     color: white;
     margin: 0;
 }
 
-h2, h6 {
+h3, h6 {
     font-family: CircularStd-Book;
     font-weight:normal;
     color: white;
-		font-size:  130%;
+		font-size:  120%;
     margin: 0;
 }
 
 a{
     color: white;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 a:visited{
