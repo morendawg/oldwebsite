@@ -1,4 +1,4 @@
-# Personal Website V3
+# Daniel Moreno Personal Website
 
 ## Dependencies
 - [Ruby](https://github.com/creationix/nvm)
