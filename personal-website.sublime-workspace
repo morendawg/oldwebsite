@@ -1,0 +1,267 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 129.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"install ",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"package Control: Insta",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package control: inst",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 448.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"sftp",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/DanielMoreno/Documents/hacking/morenod.github.io"
+	],
+	"file_history":
+	[
+		"/Users/DanielMoreno/Google Drive/YEAR IV/CIS 700/Wikifier2013/Wikifier2013/data/testSample/sampleText/test.txt",
+		"/Users/DanielMoreno/Google Drive/YEAR IV/CIS 700/Wikifier2013/Wikifier2013/data/testSample/sampleOutput/test.txt.POS.tagged",
+		"/Users/DanielMoreno/Google Drive/YEAR IV/CIS 700/Wikifier2013/Wikifier2013/data/testSample/sampleOutput/test.txt.NER.tagged",
+		"/Users/DanielMoreno/Google Drive/YEAR IV/CIS 400/mindful_ios/mindful/Podfile",
+		"/Users/DanielMoreno/Documents/hacking/hex/hexagon/html/officers.html",
+		"/Users/DanielMoreno/Documents/hacking/hex/hexagon/html/alumni.html",
+		"/Users/DanielMoreno/Documents/hacking/hex/hexagon/html/members.html",
+		"/Users/DanielMoreno/Documents/hacking/hex/hexagon/html/contact.html",
+		"/Users/DanielMoreno/Documents/hacking/hex/hexagon/html/alumni2000.html",
+		"/Users/DanielMoreno/Documents/hacking/hex/hexagon/html/alumni2001.html",
+		"/Users/DanielMoreno/Documents/hacking/hex/hexagon/html/alumni2002.html",
+		"/Users/DanielMoreno/Documents/hacking/hex/hexagon/html/alumni2003.html",
+		"/Users/DanielMoreno/Documents/hacking/hex/hexagon/html/alumni2004.html",
+		"/Users/DanielMoreno/Documents/hacking/hex/hexagon/html/alumni2005.html",
+		"/Users/DanielMoreno/Documents/hacking/hex/hexagon/html/alumni2006.html",
+		"/Users/DanielMoreno/Documents/hacking/hex/hexagon/html/alumni2007.html",
+		"/Users/DanielMoreno/Documents/hacking/hex/hexagon/html/alumni2008.html",
+		"/Users/DanielMoreno/Documents/hacking/hex/hexagon/html/alumni2009.html",
+		"/Users/DanielMoreno/Documents/hacking/hex/hexagon/html/alumni2010.html",
+		"/Users/DanielMoreno/Documents/hacking/hex/hexagon/html/alumni2011.html",
+		"/Users/DanielMoreno/Documents/hacking/hex/hexagon/html/alumni2012.html",
+		"/Users/DanielMoreno/Documents/hacking/hex/hexagon/html/alumni2013.html",
+		"/Users/DanielMoreno/Documents/hacking/hex/hexagon/html/alumni2014.html",
+		"/Users/DanielMoreno/Documents/hacking/hex/hexagon/html/alumni2015.html",
+		"/Users/DanielMoreno/Documents/hacking/hex/hexagon/html/alumni2016.html",
+		"/Users/DanielMoreno/Documents/hacking/hex/hexagon/html/alumni2017.html",
+		"/Users/DanielMoreno/Documents/hacking/hex/hexagon/html/index.html",
+		"/Users/DanielMoreno/checkcerts.py",
+		"/Users/DanielMoreno/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/DanielMoreno/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/DanielMoreno/.ssh/config",
+		"/Users/DanielMoreno/Downloads/ProjectProspectus (1).tex",
+		"/Users/DanielMoreno/Desktop/scrollText.txt",
+		"/Users/DanielMoreno/Downloads/sample.tex",
+		"/Users/DanielMoreno/Downloads/cisXXX.cls",
+		"/Users/DanielMoreno/Documents/Arduino/libraries/DMD-master/DMD.h",
+		"/Users/DanielMoreno/Documents/hacking/inside-music/audio/stems/split.py",
+		"/Users/DanielMoreno/Documents/hacking/inside-music/src/Config.js",
+		"/Volumes/XLD 20170729/CLI/xld",
+		"/Users/DanielMoreno/Google Drive/YEAR IV/CIS 700/illinois-sl/pom.xml",
+		"/Volumes/Chewbacca/loadkeyboard",
+		"/Users/DanielMoreno/Desktop/hotels in cupertino - Google Search.html",
+		"/Users/DanielMoreno/Documents/hacking/guildofsaintluke/enclave/enclave.svg",
+		"/Users/DanielMoreno/Documents/hacking/morenod.github.io/img/designer.jpg",
+		"/Users/DanielMoreno/Documents/hacking/morenod.github.io/img/penn.png"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "personal-website.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

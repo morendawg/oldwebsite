@@ -1,0 +1,28 @@
+languages:
+  - item: Objective-C
+  - item: Swift
+  - item: Python
+  - item: Java
+  - item: C++
+  - item: JavaScript
+  - item: OpenGL
+
+frameworks:
+  - item: iOS
+  - item: Android
+  - item: Unity
+
+tools:
+  - item: XCode
+  - item: Android Studio
+  - item: Git/Github
+  - item: Framer
+
+design:
+  - item: Sketch
+  - item: Adobe Illustrator
+  - item: Adobe Photoshop
+  - item: Prototyping
+  - item: User Testing
+  - item: Typography
+  - item: Ergonomics

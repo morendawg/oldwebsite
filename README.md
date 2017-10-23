@@ -1,8 +1,12 @@
-# Personal Website
+# Personal Website V3
 
-My personal website is live at [here](https://www.danmoreno.xyz).
-It includes my resume, social links and contact info.
+## Dependencies
+- [Ruby](https://github.com/creationix/nvm)
+- [Node.js](https://github.com/creationix/nvm)
+- `npm install gulp-cli -g`
+- `gem install jekyll sass bundler jekyll-minifier jekyll-sitemap`
 
-### Screenshot
-![screenshot](/img/website.png "Screenshot")
-
+## Getting Started
+1. `npm install`
+1. `gulp serve` for development
+1. `gulp build` for prod
