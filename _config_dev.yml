@@ -1,26 +1,25 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://brittanychiang.com/
+name: Dan Moreno
+title: Dan Moreno | Software Engineer
+description: Designer and Software Engineer
+url: http://danmoreno.xyz
 baseurl: ""
-email: brittany.chiang@gmail.com
-cover: https://brittanychiang.com/img/og.png
+email: dmorenocuellar@gmail.com
+cover: http://danmoreno.xyz/img/
 logo: https://brittanychiang.com/img/emojis/technologist.png
-resume: https://brittanychiang.com/resume.pdf
+resume: http://danmoreno.xyz/resume.pdf
+portfolio: http://danmoreno.xyz/portfolio.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
-  - title: twitter
-    url: https://twitter.com/bchiang7
+    url: mailto:dmorenocuellar@gmail.com
+  - title: snapchat
+    url: https://www.snapchat.com/add/dmorenocuellar
   - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
+    url: https://instagram.com/morendawg
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/morendawg
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/dmorenocuellar/
 
 # Build settings
 markdown: kramdown
