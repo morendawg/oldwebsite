@@ -17,6 +17,7 @@ tools:
   - item: Android Studio
   - item: Git/Github
   - item: Framer
+  - item: Lens Studio (Snap)
 
 design:
   - item: Sketch
